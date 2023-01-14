@@ -1,0 +1,2 @@
+# bingo
+learning numpy
